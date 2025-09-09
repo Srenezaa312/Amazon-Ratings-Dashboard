@@ -9,12 +9,14 @@ Total Ratings: 25 unique rating categories
 Total Genres: 519 different genres covered
 Total Directors: 5,771 directors in the dataset
 Time Span: Shows from 1920 to 2021
+
 🏆 Features
 📌 Ratings Breakdown: Total shows categorized by rating (e.g., 13+, 16+, R, PG-13)
 🌎 Geographical Distribution: A world map visualization showing the number of shows per country
 🎭 Genre Popularity: Top genres ranked by the total number of shows
 📆 Release Year Trends: Line graph showing the number of shows released per year
 🎥 Movies vs. TV Shows: Pie chart visualizing the proportion of movies to TV shows
+
 🛠 Technologies Used
 Power BI – For data visualization
 DAX (Data Analysis Expressions) – To calculate metrics and KPIs
