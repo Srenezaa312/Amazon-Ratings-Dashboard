@@ -23,4 +23,7 @@ DAX (Data Analysis Expressions) – To calculate metrics and KPIs
 SQL – For data extraction and transformations (if applicable)
 Amazon Prime Dataset – Sourced from Kaggle or other sources
 
+Clone using this link: 
+https://github.com/Srenezaa312/Amazon-Ratings-Dashboard.git
+
 
